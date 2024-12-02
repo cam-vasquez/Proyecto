@@ -27,10 +27,4 @@ El sistema está diseñado para ser accesible a través de una interfaz amigable
 - **Integración de sensores** para la medición de gases y partículas suspendidas.
 - **Recomendaciones automáticas** sobre ventilación y control de calidad del aire.
 
-## Funcionalidades
 
-1. **Monitoreo de CO2**: Mide la concentración de dióxido de carbono en el aire.
-2. **Detección de partículas**: Mide partículas suspendidas que afectan la calidad del aire.
-3. **Interfaz web**: Acceso a través de una interfaz gráfica para visualización de los datos y alertas.
-4. **Alertas personalizables**: Configuración de umbrales para recibir alertas cuando los niveles de calidad del aire sean bajos.
-5. **Historial de datos**: Registro de las mediciones para análisis posterior.
